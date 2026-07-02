@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-from fontTools.cffLib import width
 
 # Page config
 st.set_page_config(layout="wide", page_title="Startup Analysis")
@@ -68,7 +67,7 @@ def load_overall_analysis():
         marker="o",
         linewidth=2,
         color="#1f77b4",
-        width=0.5
+
     )
 
     ax5.set_title("Month-on-Month Investment Trend",fontsize=14, fontweight="bold")
