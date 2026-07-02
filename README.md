@@ -136,7 +136,6 @@ The dataset contains startup funding information including:
 ### Startup Analysis
 
 ![Startup Dashboard](startup_dashboard.png)
-
 ## 👨‍💻 Author
 
 **Krushna**
