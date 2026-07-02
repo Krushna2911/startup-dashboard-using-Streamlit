@@ -122,6 +122,22 @@ The dataset contains startup funding information including:
 ---
 
 
+<<<<<<< HEAD
+=======
+## 📷 Dashboard Screenshots
+
+### Overall Analysis
+
+![Overall Dashboard](images/overall_dashboard.png)
+
+### Investor Analysis
+
+![Investor Dashboard](images/investor_dashboard.png)
+
+### Startup Analysis
+
+![Startup Dashboard](images/startup_dashboard.png)
+>>>>>>> 813cdbb (Added Images)
 ## 👨‍💻 Author
 
 **Krushna Nikam**
