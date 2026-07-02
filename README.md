@@ -121,9 +121,6 @@ The dataset contains startup funding information including:
 
 ---
 
-
-<<<<<<< HEAD
-=======
 ## 📷 Dashboard Screenshots
 
 ### Overall Analysis
@@ -137,12 +134,14 @@ The dataset contains startup funding information including:
 ### Startup Analysis
 
 ![Startup Dashboard](images/startup_dashboard.png)
->>>>>>> 813cdbb (Added Images)
+
+
 ## 👨‍💻 Author
 
 **Krushna Nikam**
 
 GitHub: https://github.com/Krushna2911
+
 Strealit: https://startup-dashboard-using-app-gjcbyh9d8dscwahfbh7kmu.streamlit.app/
 
 ---
